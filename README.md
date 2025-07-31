@@ -49,8 +49,6 @@ The project includes:
 ├── submission.parquet            # Submission file generated after running inference
 └── README.md                     # This file
 
----
-
 ## 🚀 Getting Started
 
 Clone the repository and set up the environment as follows:
