@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy
+pandas
+polars>=0.20.0
+scikit-learn
+
+# Deep learning
+torch>=2.0.0
+pytorch-lightning>=2.0.0
+
+# Utility
+tqdm
+pickle5
+wandb  # 可选，用于日志记录
+
+# Optional for notebook usage
+ipykernel
+jupyterlab
