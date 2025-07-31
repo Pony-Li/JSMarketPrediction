@@ -48,22 +48,3 @@ The project includes:
 ├── setup.py                      # Project installation script
 ├── submission.parquet            # Submission file generated after running inference
 └── README.md                     # This file
-
-## 🚀 Getting Started
-
-Clone the repository and set up the environment as follows:
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/JSMarketPrediction.git
-cd JSMarketPrediction
-
-# (Optional) Create a virtual environment
-conda create -n jsmarket python=3.10
-conda activate jsmarket
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run full pipeline
-bash scripts/run_all.sh
