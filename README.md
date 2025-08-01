@@ -40,7 +40,7 @@ The project includes:
 │   ├── train.py                   # Training entry point, includes validation logic
 │   ├── inference.py               # Local inference entry point, starts inference server
 │   ├── model_gru.py               # GRU model architecture and parameters
-│   ├── online_predictor.py        # JsGruOnlinePredictor class for online inference + learning
+│   ├── online_predictor.py        # JsGruOnlinePredictor class for online learning + inference
 │   ├── utils.py                   # Utility functions: encoding, R², etc.
 │   └── __init__.py                # Marks src as a Python module
 
