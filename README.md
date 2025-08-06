@@ -36,7 +36,7 @@ The project includes:
 │   └── run_all.sh                 # One-click script for data generation, training, and inference
 
 ├── src/
-│   ├── synthetic_data.py          # Generate synthetic data for training
+│   ├── synthetic_data.py          # Generate synthetic data for training (49 dates' test and lags data)
 │   ├── train.py                   # Training entry point, includes validation logic
 │   ├── inference.py               # Local inference entry point, starts inference server
 │   ├── model_gru.py               # GRU model architecture and parameters
